@@ -1,0 +1,2 @@
+# Image-Manipulation
+This project is essentially based on image manipulation by creating different image filters consisting of effects due to change in RGB within a particular image file. This project was completed using the Zelle Graphics module on the Python Programming Language.. Different sectors within this project include creating a 2x2 grid which is achieved by making a list to organize which images go in the grid. This project also leads to making a filter which removes a green screen background and replacing it with an exotic beach background. 
